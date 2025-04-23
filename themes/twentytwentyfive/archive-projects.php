@@ -9,7 +9,7 @@
 
         $args = array(
             'post_type' => 'projects',
-            'posts_per_page' => 3,
+            'posts_per_page' => 6,
             'paged' => $paged,
         );
 
